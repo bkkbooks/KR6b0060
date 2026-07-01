@@ -1,0 +1,1384 @@
+canonical_identifier: bkk:krp/KR6b0060/v1
+canonical_location: https://kanripo.org/bkk/KR6b0060/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雜寶藏經
+  identifiers:
+    alt_id:
+    - T04n0203
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T04/T04n0203.xml
+    old_id: T04n0203
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: ？
+  label: ？
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit6
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 宮-CB
+  label: 宮-CB
+  source_xml_id: wit8
+- short: 磧乙-CB
+  label: 磧乙-CB
+  source_xml_id: wit9
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0060_000.yaml, hash: 'sha256:30197f1ebd8b8c2b47ab72af1b81c7215ab02a3def721977ce5aeed94447a4c8'}
+  - {seq: 1, filename: KR6b0060_001.yaml, hash: 'sha256:2841ab9a74575835d9647ffeb2cef4eb48d7e122ec411f8845ba11c9cbcf0985'}
+  - {seq: 2, filename: KR6b0060_002.yaml, hash: 'sha256:de7990c00eef796e98092f3d8568acf496cc1366eecbf2ed76e339164ee2c126'}
+  - {seq: 3, filename: KR6b0060_003.yaml, hash: 'sha256:c94e10fce0a5e04a6545ec3b8d5b431657c65c524d8ee130287e7f8add5a68d3'}
+  - {seq: 4, filename: KR6b0060_004.yaml, hash: 'sha256:ef861384cedd30729a68975ce6cbd3db51d26360e12d8d3aba1a2e7046fe2d45'}
+  - {seq: 5, filename: KR6b0060_005.yaml, hash: 'sha256:70aadfba19f28ef6e5353cac237be8aff5070cc7bf3aa330b7cfcb643ef74655'}
+  - {seq: 6, filename: KR6b0060_006.yaml, hash: 'sha256:2964d1f0106d7803fe00c067e0819c3e7516d636bd55cf29b3faea41f9086297'}
+  - {seq: 7, filename: KR6b0060_007.yaml, hash: 'sha256:a53f496b0054c9240d5c4e78b1d2c007470096df675e4f35d3c768ed19e530f2'}
+  - {seq: 8, filename: KR6b0060_008.yaml, hash: 'sha256:bebf282e882bcfccf6efa15cfa8039e9eda34283924c0e12336ba6fefd6912fe'}
+  - {seq: 9, filename: KR6b0060_009.yaml, hash: 'sha256:c947b43a1e338cc7351672ff14d1866c3a531d36c2ed4f6e3fef8ae4f6abf8a9'}
+  - {seq: 10, filename: KR6b0060_010.yaml, hash: 'sha256:7bb03b9ae9af50ab9fb59d35bb6d5812c47ac819c4909fa346a0376bdfcad73d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0060_001.markers.yaml, hash: 'sha256:5f55349dc4eaac3b8616fe510928cdb88e47fc4718c873846fdd8483a3bbac4b'}
+  - {seq: 2, role: markers, filename: assets/KR6b0060_002.markers.yaml, hash: 'sha256:c1af095e94d5d1676d9a3318c6fe49476dabd64bd416c26e306e9a5a95e41ac5'}
+  - {seq: 3, role: markers, filename: assets/KR6b0060_003.markers.yaml, hash: 'sha256:f81ab67b3d1aa84217dff14b11454f46eec5cdca91c03b1bf93a68acd7568e53'}
+  - {seq: 4, role: markers, filename: assets/KR6b0060_004.markers.yaml, hash: 'sha256:e21bbbf2681ded630d47f6ee148f0e4463384299c466259c8d702b96d85e259b'}
+  - {seq: 5, role: markers, filename: assets/KR6b0060_005.markers.yaml, hash: 'sha256:f4250c0ae3f2eae9766a9a77f604239e6f91bd17e22024a1555865f818ec60ff'}
+  - {seq: 6, role: markers, filename: assets/KR6b0060_006.markers.yaml, hash: 'sha256:9b9130bb1dab9b4490b980b0c4b2f88ee8f90ec747a3d7f498b93cf7055275b2'}
+  - {seq: 7, role: markers, filename: assets/KR6b0060_007.markers.yaml, hash: 'sha256:3b5d066235339d49934eab56768901551502fd26d57f025608915b19861dccba'}
+  - {seq: 8, role: markers, filename: assets/KR6b0060_008.markers.yaml, hash: 'sha256:e4312f5900f7a4a879bcabdb977e79a6ce097f4297c02bbd7da9027b1d8c5a91'}
+  - {seq: 9, role: markers, filename: assets/KR6b0060_009.markers.yaml, hash: 'sha256:dd6cb6beae2fa80b616efebf98d05c2d52531edb4862b52481014302b636e3df'}
+  - {seq: 10, role: markers, filename: assets/KR6b0060_010.markers.yaml, hash: 'sha256:c2f74af4933c3a468c768b96975e5753416bf4a5956f152015558e502e1f9d57'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8592
+  label: 雜寶藏經卷第一有九緣
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-1
+    span:
+    - body
+    - 74
+    - 74
+  label: 1 十奢王緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-2
+    span:
+    - body
+    - 993
+    - 993
+  label: 2 王子以肉濟父母緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-3
+    span:
+    - body
+    - 2461
+    - 2461
+  label: 3 鸚鵡子供養盲父母緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-4
+    span:
+    - body
+    - 2818
+    - 2818
+  label: 4 棄老國緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-5
+    span:
+    - body
+    - 4095
+    - 4095
+  label: 5 佛於忉利天上為母摩耶說法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-6
+    span:
+    - body
+    - 4432
+    - 4432
+  label: 6 佛說往昔母迦旦遮羅緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-7
+    span:
+    - body
+    - 4914
+    - 4914
+  label: 7 慈童女緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-8
+    span:
+    - body
+    - 6112
+    - 6112
+  label: 8 蓮華夫人緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0060_T_001-mulu-9
+    span:
+    - body
+    - 7133
+    - 7133
+  label: 9 鹿女夫人緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8500
+  label: 雜寶藏經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-1
+    span:
+    - body
+    - 187
+    - 187
+  label: 10 六牙白象緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-2
+    span:
+    - body
+    - 887
+    - 887
+  label: 11 兔自燒身供養大仙緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-3
+    span:
+    - body
+    - 1312
+    - 1312
+  label: 12 善惡獼猴緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-4
+    span:
+    - body
+    - 1623
+    - 1623
+  label: 13 佛以智水滅三火緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-5
+    span:
+    - body
+    - 2135
+    - 2135
+  label: 14 波羅奈國有一長者子共天神感王行孝緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-6
+    span:
+    - body
+    - 2930
+    - 2930
+  label: 15 迦尸國王白香象養盲父母并和二國緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-7
+    span:
+    - body
+    - 3658
+    - 3658
+  label: 16 波羅奈國弟微諫兄遂徹承相勸王教化天下緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-8
+    span:
+    - body
+    - 3921
+    - 3921
+  label: 17 梵摩達夫人妒忌傷子法護緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-9
+    span:
+    - body
+    - 4255
+    - 4255
+  label: 18 駝驃比丘被謗緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-10
+    span:
+    - body
+    - 4631
+    - 4631
+  label: 19 離越被謗緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-11
+    span:
+    - body
+    - 4993
+    - 4993
+  label: 20 波斯匿王醜女賴提緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-12
+    span:
+    - body
+    - 5841
+    - 5841
+  label: 21 波斯匿王女善光緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-13
+    span:
+    - body
+    - 6501
+    - 6501
+  label: 22 昔王子兄弟二人被驅出國緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-14
+    span:
+    - body
+    - 6918
+    - 6918
+  label: 23 須達長者婦供養佛獲報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-15
+    span:
+    - body
+    - 7150
+    - 7150
+  label: 24 娑羅那比丘為惡生王所苦惱緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-16
+    span:
+    - body
+    - 8088
+    - 8088
+  label: 25 內官贖所犍牛得男根緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0060_T_002-mulu-17
+    span:
+    - body
+    - 8244
+    - 8244
+  label: 26 二內官諍道理緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8130
+  label: 雜寶藏經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-1
+    span:
+    - body
+    - 85
+    - 85
+  label: 27 兄弟二人俱出家緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-2
+    span:
+    - body
+    - 783
+    - 783
+  label: 28 仇伽離謗舍利弗等緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-3
+    span:
+    - body
+    - 1676
+    - 1676
+  label: 29 龍王偈緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-4
+    span:
+    - body
+    - 4317
+    - 4317
+  label: 30 提婆達多欲毀傷佛因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-5
+    span:
+    - body
+    - 4629
+    - 4629
+  label: 31 共命鳥緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-6
+    span:
+    - body
+    - 4774
+    - 4774
+  label: 32 白鵝王緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-7
+    span:
+    - body
+    - 5016
+    - 5016
+  label: 33 大龜因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-8
+    span:
+    - body
+    - 5403
+    - 5403
+  label: 34 二輔相詭媾緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-9
+    span:
+    - body
+    - 5963
+    - 5963
+  label: 35 山雞王緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-10
+    span:
+    - body
+    - 6255
+    - 6255
+  label: 36 吉利鳥緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-11
+    span:
+    - body
+    - 6546
+    - 6546
+  label: 37 老仙緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-12
+    span:
+    - body
+    - 6943
+    - 6943
+  label: 38 二估客因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0060_T_003-mulu-13
+    span:
+    - body
+    - 7163
+    - 7163
+  label: 39 八天次第問法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5928
+  label: 雜寶藏經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-1
+    span:
+    - body
+    - 139
+    - 139
+  label: 40 貧人以糗團施現獲報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-2
+    span:
+    - body
+    - 1018
+    - 1018
+  label: 41 貧女以兩錢布施即獲報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-3
+    span:
+    - body
+    - 1763
+    - 1763
+  label: 42 乾陀衛國畫師罽那設食獲報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-4
+    span:
+    - body
+    - 2168
+    - 2168
+  label: 43 罽夷羅夫婦自賣設會現獲報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-5
+    span:
+    - body
+    - 2806
+    - 2806
+  label: 44 沙彌救蟻子水災得長命報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-6
+    span:
+    - body
+    - 2948
+    - 2948
+  label: 45 乾陀衛國王治故塔寺得延命緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-7
+    span:
+    - body
+    - 3059
+    - 3059
+  label: 46 比丘補寺壁孔獲延命報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-8
+    span:
+    - body
+    - 3195
+    - 3195
+  label: 47 長者子見佛求長命緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-9
+    span:
+    - body
+    - 3377
+    - 3377
+  label: 48 長者子客作設會獲現報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-10
+    span:
+    - body
+    - 3976
+    - 3976
+  label: 49 弗那施佛缽食獲現報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0060_T_004-mulu-11
+    span:
+    - body
+    - 4381
+    - 4381
+  label: 50 大愛道施佛金縷織成衣并穿珠師緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5326
+  label: 雜寶藏經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-1
+    span:
+    - body
+    - 287
+    - 287
+  label: 51 天女本以華鬘供養迦葉佛塔緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-2
+    span:
+    - body
+    - 626
+    - 626
+  label: 52 天女本以蓮華供養迦葉佛塔緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-3
+    span:
+    - body
+    - 920
+    - 920
+  label: 53 天女受持八戒齋生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-4
+    span:
+    - body
+    - 1191
+    - 1191
+  label: 54 天女本以然燈供養生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-5
+    span:
+    - body
+    - 1502
+    - 1502
+  label: 55 天女本以乘車見佛歡喜避道緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-6
+    span:
+    - body
+    - 1701
+    - 1701
+  label: 56 天女本以華散佛化成華蓋緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-7
+    span:
+    - body
+    - 1934
+    - 1934
+  label: 57 舍利弗摩提供養佛塔緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-8
+    span:
+    - body
+    - 2231
+    - 2231
+  label: 58 長者夫婦造作浮圖生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-9
+    span:
+    - body
+    - 2579
+    - 2579
+  label: 59 長者夫婦信敬禮佛生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-10
+    span:
+    - body
+    - 2788
+    - 2788
+  label: 60 外道婆羅門女學佛弟子作齋生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-11
+    span:
+    - body
+    - 3030
+    - 3030
+  label: 61 貧女人以㲲施須達生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-12
+    span:
+    - body
+    - 3293
+    - 3293
+  label: 62 長者女不信三寶父以金錢雇令受持五戒生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-13
+    span:
+    - body
+    - 3467
+    - 3467
+  label: 63 女因掃地見佛生歡喜生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-14
+    span:
+    - body
+    - 3647
+    - 3647
+  label: 64 長者造舍請佛供養以舍布施生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-15
+    span:
+    - body
+    - 3771
+    - 3771
+  label: 65 婦以甘蔗施羅漢生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-16
+    span:
+    - body
+    - 3924
+    - 3924
+  label: 66 女人以香塗佛足生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-17
+    span:
+    - body
+    - 4137
+    - 4137
+  label: 67 須達長者婢歸依三寶生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-18
+    span:
+    - body
+    - 4324
+    - 4324
+  label: 68 貧女從佛乞食生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-19
+    span:
+    - body
+    - 4493
+    - 4493
+  label: 69 長者婢為主送食值佛即施獲報生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-20
+    span:
+    - body
+    - 4844
+    - 4844
+  label: 70 長者為佛造講堂獲報生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-21
+    span:
+    - body
+    - 4981
+    - 4981
+  label: 71 長者見王造塔亦復造塔獲報生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0060_T_005-mulu-22
+    span:
+    - body
+    - 5120
+    - 5120
+  label: 72 賈客造舍供養佛獲報生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5959
+  label: 雜寶藏經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-mulu-1
+    span:
+    - body
+    - 69
+    - 69
+  label: 73 帝釋問事緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-mulu-2
+    span:
+    - body
+    - 2981
+    - 2981
+  label: 74 度阿若憍陳如等說往日緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-mulu-3
+    span:
+    - body
+    - 3295
+    - 3295
+  label: 75 差摩釋子患目歸依三寶得眼淨緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-mulu-4
+    span:
+    - body
+    - 3945
+    - 3945
+  label: 76 七種施因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-mulu-5
+    span:
+    - body
+    - 4360
+    - 4360
+  label: 77 迦步王國天旱浴佛得雨緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0060_T_006-mulu-6
+    span:
+    - body
+    - 4682
+    - 4682
+  label: 78 長者請舍利弗摩訶羅緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5490
+  label: 雜寶藏經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-1
+    span:
+    - body
+    - 224
+    - 224
+  label: 79 婆羅門以如意珠施佛出家得道緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-2
+    span:
+    - body
+    - 692
+    - 692
+  label: 80 十力迦葉以實言止佛足血緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-3
+    span:
+    - body
+    - 1024
+    - 1024
+  label: 81 佛在菩提樹下魔王波旬欲來惱佛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-4
+    span:
+    - body
+    - 1471
+    - 1471
+  label: 82 佛為諸比丘說利養災患緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-5
+    span:
+    - body
+    - 1919
+    - 1919
+  label: 83 賊臨被殺遙見佛歡喜而生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-6
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 84 刖手足人感念佛恩而得生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-7
+    span:
+    - body
+    - 2231
+    - 2231
+  label: 85 長者以好蜜漿供養行人得生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-8
+    span:
+    - body
+    - 2396
+    - 2396
+  label: 86 波斯匿王遣人請佛由為王使生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-9
+    span:
+    - body
+    - 2604
+    - 2604
+  label: 87 波斯匿王勸化乞索時有貧人以㲲施王得生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-10
+    span:
+    - body
+    - 2776
+    - 2776
+  label: 88 兄常勸弟奉修三寶弟不敬信兄得生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-11
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 89 父聞子得道歡喜即得生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-12
+    span:
+    - body
+    - 3053
+    - 3053
+  label: 90 子為其父所逼出家生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-13
+    span:
+    - body
+    - 3221
+    - 3221
+  label: 91 羅漢祇夜多驅惡龍入海緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-14
+    span:
+    - body
+    - 4102
+    - 4102
+  label: 92 二比丘見祇夜多得生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-15
+    span:
+    - body
+    - 4440
+    - 4440
+  label: 93 月氏國王見阿羅漢祇夜多緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0060_T_007-mulu-16
+    span:
+    - body
+    - 4940
+    - 4940
+  label: 94 月氏國王與三智臣作善親友緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5907
+  label: 雜寶藏經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-1
+    span:
+    - body
+    - 96
+    - 96
+  label: 95 拘尸彌國輔相夫婦惡心於佛佛即化導得須陀洹緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-2
+    span:
+    - body
+    - 1056
+    - 1056
+  label: 96 佛弟難陀為佛所逼出家得道緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-3
+    span:
+    - body
+    - 2626
+    - 2626
+  label: 97 大力士化曠野群賊緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-4
+    span:
+    - body
+    - 3793
+    - 3793
+  label: 98 輔相聞法離欲緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-5
+    span:
+    - body
+    - 4416
+    - 4416
+  label: 99 尼乾子投火聚為佛所度緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-6
+    span:
+    - body
+    - 4869
+    - 4869
+  label: 100 五百白鴈聽法生天緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0060_T_008-mulu-7
+    span:
+    - body
+    - 5249
+    - 5249
+  label: 101 提婆達多放護財醉象欲害佛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6972
+  label: 雜寶藏經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 102 迦栴延為惡生王解八夢緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-2
+    span:
+    - body
+    - 2193
+    - 2193
+  label: 103 金貓因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-3
+    span:
+    - body
+    - 2554
+    - 2554
+  label: 104 惡生王得五百缽緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-4
+    span:
+    - body
+    - 3105
+    - 3105
+  label: 105 求毘摩天望得大富緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-5
+    span:
+    - body
+    - 3408
+    - 3408
+  label: 106 鬼子母失子緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-6
+    span:
+    - body
+    - 3687
+    - 3687
+  label: 107 天祀主緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-7
+    span:
+    - body
+    - 3870
+    - 3870
+  label: 108 祀樹神緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-8
+    span:
+    - body
+    - 4086
+    - 4086
+  label: 109 婦女厭欲出家緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-9
+    span:
+    - body
+    - 4333
+    - 4333
+  label: 110 不孝子受苦報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-10
+    span:
+    - body
+    - 4411
+    - 4411
+  label: 111 難陀王與那伽斯那共論緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-11
+    span:
+    - body
+    - 5276
+    - 5276
+  label: 112 不孝婦欲害其姑反殺其夫緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-12
+    span:
+    - body
+    - 5451
+    - 5451
+  label: 113 波羅奈王聞塚間喚緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-13
+    span:
+    - body
+    - 6158
+    - 6158
+  label: 114 老比丘得四果緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0060_T_009-mulu-14
+    span:
+    - body
+    - 6731
+    - 6731
+  label: 115 女人至誠得道果緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5706
+  label: 雜寶藏經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-mulu-1
+    span:
+    - body
+    - 47
+    - 47
+  label: 116 優陀羨王緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-mulu-2
+    span:
+    - body
+    - 2017
+    - 2017
+  label: 117 羅睺羅因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-mulu-3
+    span:
+    - body
+    - 3571
+    - 3571
+  label: 118 老婆羅門問諂偽緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-mulu-4
+    span:
+    - body
+    - 4546
+    - 4546
+  label: 119 婆羅門婦欲害姑緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-mulu-5
+    span:
+    - body
+    - 5091
+    - 5091
+  label: 120 烏梟報怨緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0060_T_010-mulu-6
+    span:
+    - body
+    - 5523
+    - 5523
+  label: 121 婢共羊鬥緣
+  type: mulu
+  level: 1
+hash: sha256:9d3a10aa3ac4a8923ee387d7b498f045e64bf876ceecee2424495ea662a98f14
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
